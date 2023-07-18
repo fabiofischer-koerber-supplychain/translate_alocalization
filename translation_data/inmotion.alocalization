@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLocalizationExportToken xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Accellos.Platform.Repository">
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId></GroupId>
+    <Key>error put string message</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Error saving Login Settings in Shared Preferences</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId></GroupId>
+    <Key>error get string message</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Error retrieving Login Settings from Shared Preferences</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId></GroupId>
+    <Key>error del string message</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Error deleting Login Settings from Shared Preferences</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>Application</GroupId>
+    <Key>Application Display Name</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Körber One Mobile</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>imageErrors</GroupId>
+    <Key>imageError MT Issue</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Middle tier is not set for application. Please contact your administrator.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>imageErrors</GroupId>
+    <Key>imageError no access</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>You do not have access to the application. Please contact your administrator.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>imageErrors</GroupId>
+    <Key>imageError endpoint Issue</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Cannot read application's oData endpoint. Please contact your administrator.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>imageErrors</GroupId>
+    <Key>imageError OData Issue</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>OData provider is not set for application. Please contact your administrator.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>Menu Folder</GroupId>
+    <Key>SCA inMotion</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Körber One Mobile</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>Menu Item</GroupId>
+    <Key>Settings</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Settings</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>Menu Item</GroupId>
+    <Key>Login</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Login</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>show f1 cancel</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Show F1 as cancel</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>Restore Defaults Button</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Restore Defaults</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>General Group Title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>General</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>Config Saved Message</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Configuration was saved successfully.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>port number title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Port Number:</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>restore login dialog message</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>This will override the current login form values. Continue?</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>Save Changes Button</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Save Changes</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>Restore Login Settings Button</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Restore From Identity Claims</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>Login Settings Group Title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Login Settings</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>device name title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Device Name:</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>restore login dialog cancel button</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Cancel</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>Save Failed Message</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Save failed.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>error message port number</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Port Number must be a number between 0-65535</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>restore login dialog ok button</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Ok</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>web server name title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Web Terminal Gateway Server Name:</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>Role Text</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Role</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>Error Ocurred Message</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>An error has ocurred</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>Error Message</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Error</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>restore login dialog header</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Confirmation Required</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>Type Label</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Type</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>User Text</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>User</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>restore login dialog title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Restore Login Form Values From Identity Claims</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>app server name title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Application Server Name:</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>Page Title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Settings</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>Error Message Id Claims</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Error restoring login form values from identity claims</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>SETT</GroupId>
+    <Key>Role User Label</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Role/User</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>validation: portNumberRequired</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Port Number is required</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>submit button text</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Submit</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>validation: appServerNameRequired</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Application Server Name is required</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>error dialog title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Error</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>unable to retrieve request parameters error</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Unable to retieve Request Parameters.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>screen size title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Screen Size:</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>page title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Login</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>port number title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Port Number:</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>validation: portNumberNotValid</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Port Number must be a number between 0-65535</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>unable to initialize RestClient error</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Unable to initialize RestClient instance.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>validation: deviceNameRequired</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Device Name is required</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>login failed error</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Login failed. Please try again.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>device name title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Device Name:</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>web server name title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Web Terminal Gateway Server Name:</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>app server name title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Application Server Name:</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>validation: webServerNameRequired</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Web Terminal Gateway Server Name is required</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_LOGIN</GroupId>
+    <Key>ok button text</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Ok</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>message: device is offline</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Device is offline. Please try again later.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>json string error image content required</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>image section is missing.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>json string error title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>USF JSON is not configured properly</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>show F1 button text</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Show F1:Cancel</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>auto hide function keys button text</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Auto Hide Function Keys</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>json string error missing properties</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Missing properties: </LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>imageErrorTitle</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>HJ Image is not configured properly</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>json string error doc kind required</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>documentKindName is missing.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>error dialog title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Error</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>process form failure error</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Error when trying to process the form. Please try again.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>show function keys button text</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Show Function Keys</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>message: connection failure</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Connection error. Please try again later.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>auto adjust content button text</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Auto Adjust Content</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>submit button text</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Submit</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>capture</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Capture</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>cancel button text</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Cancel</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>page title</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Main</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>hide function keys button text</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Hide Function Keys</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>imageAssociationCompleted</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Image(s) association was completed successfully</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>json string error entity item key required</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>entityItemKey is missing.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>auto scroll to submit button text</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Auto Scroll To Submit Button</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>json string error data content required</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>content section missing.</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>ok button text</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Ok</LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>json string error missing property</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Missing property: </LocalizedValue>
+  </LocalizationExportToken>
+  <LocalizationExportToken>
+    <ApplicationId>SCA inMotion</ApplicationId>
+    <GroupId>WAREHOUSE_MAIN</GroupId>
+    <Key>generic process form failure error</Key>
+    <LanguageId>english</LanguageId>
+    <LocalizedValue>Unable to recover from ProcessForm failure.</LocalizedValue>
+  </LocalizationExportToken>
+</ArrayOfLocalizationExportToken>
